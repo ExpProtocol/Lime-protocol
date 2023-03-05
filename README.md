@@ -1,7 +1,7 @@
 # Lime-protocol
 ![image](https://user-images.githubusercontent.com/63841877/222981219-5d85fd1d-4703-4968-81b7-5a98e5af6bb4.png)
 
-
+permissionless fully conllateral lending protocol
 
 # slide
 - https://docs.google.com/presentation/d/10jDNAA2I8Y8paK-2OkihSLTOhIWmzjbH2E3hnY3PvO8/edit#slide=id.g214e75a85c7_2_30
