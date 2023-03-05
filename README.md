@@ -10,6 +10,7 @@
 - https://github.com/ExpProtocol/exp-contract
 
 # contract address
+mumbai
 - Market contract: 0x167c88A45C94234134425EB8c9E506B0284bB0AD
 - ERC721Adapter contract: 0xf10117bF81597f1733D36eAadaF37C72369d2C33
 - ERC1155Adapter contract: 0x4F061Aa4192b4Ce07CF50BFf35f845409afc9832
