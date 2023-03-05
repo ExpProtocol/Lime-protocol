@@ -1,4 +1,6 @@
 # Lime-protocol
+![image](https://user-images.githubusercontent.com/63841877/222981219-5d85fd1d-4703-4968-81b7-5a98e5af6bb4.png)
+
 
 
 # slide
