@@ -25,11 +25,11 @@ polygon
 https://youtu.be/ph2ON9FWJyA
 
 # member
-pinokey
-https://github.com/pinokey
-inaridiy
-https://github.com/inaridiy
-kazuma izumi
-https://github.com/Kazuma7
-mayu
-https://github.com/mayu-jp-20
+- pinokey
+- - https://github.com/pinokey
+- inaridiy
+- - https://github.com/inaridiy
+- kazuma izumi
+- - https://github.com/Kazuma7
+- mayu
+- - https://github.com/mayu-jp-20
